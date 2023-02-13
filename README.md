@@ -1,2 +1,2 @@
 # AI
-test 01
+Trí tuệ nhân tạo (AI)
